@@ -1,1 +1,1 @@
-<script>alert("XSS from web, a github");</script>
+alert("XSS from web sorce");
